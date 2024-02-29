@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alanwilkins521
-- 👀 I’m interested in finding an entry level role in Data Analytics
-- 🌱 I’m currently learning SQL, Tableau, and R programming
+- 👀 I’m interested in finding an entry level role in Backend Developing, Data Analytics, or 
+- 🌱 I’m currently learning Python, SQL, HTML, CSS, and JavaScript
 - 💞️ I’m looking to collaborate on resume building, interview practice, networking
 - 📫 How to reach me: email: alanwilkins521@gmail.com
 
